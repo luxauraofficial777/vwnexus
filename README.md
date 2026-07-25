@@ -1,5 +1,5 @@
 # vwnexus
-VW NEXUS / VW RAG-MCP
+VW NEXUS / VW RAG-MCP For Use With Liminal Lore
 
 # VW Nexus
 
