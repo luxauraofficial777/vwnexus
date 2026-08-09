@@ -1,6 +1,6 @@
 # vwnexus
 VW NEXUS / VW RAG-MCP For Use With Liminal Lore
-
+<img width="1024" height="1024" alt="vwnexus" src="https://github.com/user-attachments/assets/18a771fb-f2a9-4034-91fc-e36f1a61d594" />
 # VW Nexus
 
 **Universal orchestration layer for multi-agent systems.**
